@@ -1,4 +1,7 @@
 ## I am Arjun Sreekumar 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArjuntheSreekumar&theme=dark&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+### 📊 GitHub Stats
+![Arjun's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ArjuntheSreekumar&theme=dark&show_icons=true)
+
+### 🔥 Top Languages
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ArjuntheSreekumar&layout=compact&theme=dark)
