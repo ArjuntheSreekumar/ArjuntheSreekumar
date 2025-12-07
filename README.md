@@ -1,7 +1,7 @@
 ## I am Arjun Sreekumar 👋
 
-### 📊 GitHub Stats (Stable)
-![GitHub Stats](https://img.shields.io/badge/dynamic/json?color=blue&label=Arjun's%20Stats&query=%24&url=https://api.github.com/users/ArjuntheSreekumar)
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArjuntheSreekumar&theme=github_dark)
 
-### 🔥 Top Languages (Shields Version)
-![Top Languages](https://img.shields.io/github/languages/top/ArjuntheSreekumar/ArjuntheSreekumar)
+![Repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArjuntheSreekumar&theme=github_dark)
+
+![Commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ArjuntheSreekumar&theme=github_dark)
